@@ -2,31 +2,27 @@
 
 **Software Engineer**
 
-Desenvolvedor focado em **backend, APIs e infraestrutura**, interessado em construir sistemas simples, eficientes e bem estruturados.
+Building software with a focus on **backend systems, APIs, infrastructure and distributed services**.
 
-Atualmente, estou aprofundando meus conhecimentos em engenharia de software, arquitetura de sistemas e desenvolvimento de aplicações escaláveis.
+I enjoy designing simple solutions for complex problems and continuously improving my understanding of software engineering.
 
-### Stack
+### Technologies
 
-**Backend**
-Java · TypeScript · JavaScript · Python · Node.js
-
-**Frontend**
-HTML · CSS · Next.js
-
-**Databases & Infrastructure**
-MySQL · MongoDB · Redis · Linux · Docker · Nginx
-
-**Other**
-C · C++ · Lua
+`Java` `TypeScript` `JavaScript` `Python` `Node.js`
+`Next.js` `MySQL` `MongoDB` `Redis`
+`Linux` `Docker` `Nginx` `C` `C++` `Lua`
 
 ### GitHub
 
 ![Guilherme's GitHub Stats](https://github-readme-stats.vercel.app/api?username=guinunesdev\&show_icons=true\&theme=github_dark\&hide_title=true)
 
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=guinunesdev\&layout=compact\&theme=github_dark)
+
 ### Portfolio
 
 [gu1lhermenunes.dev](https://gu1lhermenunes.dev)
 
-> *"Simplicidade é a sofisticação máxima."*
-> — Leonardo da Vinci
+---
+
+*"Simplicity is the ultimate sophistication."*
+**Leonardo da Vinci**
