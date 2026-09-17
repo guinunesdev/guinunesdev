@@ -16,7 +16,7 @@ I enjoy designing simple solutions for complex problems and continuously improvi
 
 ![Guilherme's GitHub Stats](https://github-stats-extended.vercel.app/api?username=guinunesdev)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=guinunesdev\&layout=compact\&theme=github_dark)
+![Top Languages](https://github-stats-extended.vercel.app/api/top-langs/?username=guinunesdev\&layout=compact\&theme=github_dark)
 
 ### Portfolio
 
